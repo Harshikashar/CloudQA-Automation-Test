@@ -22,7 +22,6 @@ This project contains a robust Selenium WebDriver automation test written in C# 
 
 ## Setup & Run
 1. Install .NET 6.0 SDK
-2. Install required NuGet packages:
-   ```bash
+2. Install required NuGet packages
 3. Run the test:
    dotnet run
